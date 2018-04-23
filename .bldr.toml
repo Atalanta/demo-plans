@@ -1,0 +1,6 @@
+[mongodb]
+plan_path = "mongodb"
+[openssl]
+plan_path = "openssl"
+[np-mongodb]
+plan_path = "np-mongodb"
