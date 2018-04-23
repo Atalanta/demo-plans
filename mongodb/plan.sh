@@ -16,7 +16,7 @@ pkg_build_deps=(
   core/glibc
   core/python2
   core/scons
-  core/openssl
+  atalanta/openssl
 )
 pkg_bin_dirs=(bin)
 pkg_lib_dirs=(lib)
