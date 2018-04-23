@@ -9,7 +9,7 @@ pkg_shasum=3bef44f50f302159c26194bcac9d51c81d98d57ea728f55400774850a70f5120
 pkg_upstream_url=https://www.mongodb.com/
 pkg_filename=${pkg_name}-src-r${pkg_version}.tar.gz
 pkg_dirname=${pkg_name}-src-r${pkg_version}
-pkg_deps=(core/gcc-libs core/glibc core/openssl)
+pkg_deps=(core/gcc-libs core/glibc atalanta/openssl)
 pkg_build_deps=(
   core/coreutils
   core/gcc
