@@ -1,0 +1,4 @@
+name: np-mongodb
+version: 3.2.9
+tillerVersion: ">=2.7.2"
+appVersion: 3.2.9-20180414111126

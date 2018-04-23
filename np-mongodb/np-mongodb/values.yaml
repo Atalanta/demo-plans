@@ -1,0 +1,5 @@
+metadataName: "np-mongodb-3.2.9-20180414111126"
+serviceName: "np-mongodb"
+imageName: "atalanta/np-mongodb:3.2.9-20180414111126"
+instanceCount: "1"
+serviceTopology: "standalone"
